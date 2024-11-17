@@ -1,7 +1,7 @@
 # Evaluateur-Typeur-de-Lambda-Calcul
 
 ## 1. Architecture du Projet
-
+```
 └───src
     ├───main : executable des tests
     ├───test
@@ -15,6 +15,7 @@
     ├───Makefile : pour buikd le projet
     ├───eval.ml : code de l'évaluateur
     └───type.ml : code du typeur
+```
 
 ### Compilation et Exécution
 
